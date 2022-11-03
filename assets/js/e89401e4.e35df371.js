@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskydev=self.webpackChunkskydev||[]).push([[4538],{9067:e=>{e.exports=JSON.parse('{"permalink":"/Skydev/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

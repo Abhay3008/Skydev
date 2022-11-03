@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskydev=self.webpackChunkskydev||[]).push([[798],{8220:e=>{e.exports=JSON.parse('{"permalink":"/Skydev/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
